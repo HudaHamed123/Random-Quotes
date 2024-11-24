@@ -1,0 +1,18 @@
+h1 {
+    font-size: 80px;
+    font-weight: 800;
+    font-family: Impact;
+}
+p {
+    font-size: 35px;
+    font-family: "EB Garamond", serif;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: green;
+}
